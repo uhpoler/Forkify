@@ -1,4 +1,4 @@
-# Forkify Recipe App
+# Forkify
 
 ![image](https://github.com/user-attachments/assets/d705ae59-65f9-4ae8-9c58-ea42e49b0014)
 
