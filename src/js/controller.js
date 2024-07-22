@@ -135,6 +135,5 @@ const init = function () {
   searchView.addHandlerSearch(controllSearchResults);
   paginationView.addHandlerClick(controllPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('kckdkdmcm');
 };
 init();
