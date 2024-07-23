@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/d705ae59-65f9-4ae8-9c58-ea42e49b0014)
 
-A web application for finding and saving your favorite recipes.
+This is a web application for finding and saving your favorite recipes.
 
 ## About
 
